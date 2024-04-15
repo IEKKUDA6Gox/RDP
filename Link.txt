@@ -1,0 +1,7 @@
+Windows 10 : https://ia801702.us.archive.org/10/items/windows4vpsisorecoverrrq11/windows10.gz
+
+Windows Server 2012 : https://ia801702.us.archive.org/10/items/windows4vpsisorecoverrrq11/windows12.gz
+
+Windows Server 2016 : https://ia801702.us.archive.org/10/items/windows4vpsisorecoverrrq11/windows16.gz
+
+Windows Server 2019 : https://ia601702.us.archive.org/10/items/windows4vpsisorecoverrrq11/windows19.gz
